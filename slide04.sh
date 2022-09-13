@@ -1,7 +1,15 @@
 
 echo
 echo "task7. Git commangs"
-echo "change working dir>"
+echo "change the working dir>"
 cd ~/source/repos/newrepo2/
-echo "show working dir>"
+echo "show the working dir>"
 cmd //c cd
+echo "add all files ( "_.") to staging (index)"
+git add .
+echo "create a snapshot and save to a local repo"
+git commit
+# ...some message
+#press ctrl+: then qw
+echo "send to remove repo"
+git push
