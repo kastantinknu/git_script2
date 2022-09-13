@@ -18,3 +18,4 @@ git commit
 echo
 echo "send to remove repo"
 git push
+
