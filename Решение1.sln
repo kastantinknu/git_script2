@@ -6,8 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{DCB736DE-5BAC-42F9-94E4-F5E068DBA80C}"
 	ProjectSection(SolutionItems) = preProject
 		script.sh = script.sh
-		TextFile1.txt = TextFile1.txt
-		TextFile2.txt = TextFile2.txt
 	EndProjectSection
 EndProject
 Global
