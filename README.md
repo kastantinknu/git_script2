@@ -1,4 +1,4 @@
-# git_script1
+# git_script2
 - 01 first config
 - 02 initialise and clone
 - 03 add .gitignore
@@ -8,4 +8,4 @@
    - remove, reset
    - shortcuts: add && commit without new file and with
    - pull: fetch && merge
-   - remote
+   - remote: add
