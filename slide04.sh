@@ -10,6 +10,6 @@ git add .
 echo "create a snapshot and save to a local repo"
 git commit
 # ...some message
-#press ctrl+: then qw
+#press esc then shift+: then wq then enter
 echo "send to remove repo"
 git push
