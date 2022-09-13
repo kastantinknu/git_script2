@@ -1,10 +1,12 @@
 ##first slide
 echo
 echo "show user name:"
-git config --global user.name
+git config --global user.name ##git config --global user.name Kostyantyn Zabolotnyy
+
 echo
 echo "show user email:"
-git config --global user.email
+git config --global user.email ##git config --global user.email kastantin.knu@gmail.com
+
 echo
 echo "config editor into emacs"
 git config --global core.editor emacs
