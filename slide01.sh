@@ -21,6 +21,3 @@ echo
 echo "show config list in the current dir:"
 git config --list
 
-echo "end"
-
-##second slide
